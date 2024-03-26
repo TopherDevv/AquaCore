@@ -1,0 +1,14 @@
+        <!-- AquaCore API -->
+        <dependency>
+            <groupId>me.activated.core</groupId>
+            <artifactId>AquaCoreAPI</artifactId>
+            <version>api</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/libs/queues/AquaCoreAPI.jar</systemPath>
+        </dependency>
+        <!-- LuckPerms API -->
+        <dependency>
+            <groupId>net.luckperms</groupId>
+            <artifactId>api</artifactId>
+            <version>5.4</version>
+            <scope>provided</scope>
